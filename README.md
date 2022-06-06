@@ -1,7 +1,7 @@
 # JourneyRobeChanger
 A tool to quickly switch between saves in [Journey](https://store.steampowered.com/app/638230/Journey/).
 
-**This tool is not maintaned, use https://www.coldknife2.ninja/Journey/journeyEditor.html instead!**
+**This tool is not maintaned, use https://journey.coldknife2.ninja/editor/ instead!**
 
 ## Usage
 This script only works with the Steam version of the game. \
